@@ -1,9 +1,10 @@
 import React from "react";
+import Ask from "../Components/Ask";
 import ProfileCard from "../Components/ProfileCard";
 
 export default function Review() {
   return (
-    <div className=" relative h-[600px] bg-gradient-to-r from-blue-900 to-indigo-900 text-white">
+    <div className=" relative h-[1000px] bg-gradient-to-r from-blue-900 to-indigo-900 text-white">
       <div className="text-center ">
         <img className="absolute top-[-100px] xl:left-[35vw] md:left-[25vw]" src="/cricle.svg" alt="" />
         <h1 className="text-[28px] text-blue-600">Our Clien Review</h1>
@@ -14,12 +15,12 @@ export default function Review() {
         </h1>
       </div>
       {/*  */}
-      <div className=" flex justify-center m-auto">
+      <div className=" flex justify-center m-auto ">
       <ProfileCard />
       <ProfileCard/>
       <ProfileCard/>
       </div>
-      
+      <Ask />
     </div>
   );
 }
