@@ -4,6 +4,7 @@ import Home from "./Pages/Home";
 import JoinUs from "./Pages/JoinUs";
 import MaintenceHome from "./Pages/MaintenceHome";
 import ReadArticle from "./Pages/ReadArticle";
+import Review from "./Pages/Review";
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
       <MaintenceHome />
       <ReadArticle />
       <JoinUs/>
+      <Review />
     </div>
   )
 }

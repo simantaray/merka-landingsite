@@ -3,7 +3,7 @@ import React from "react";
 export default function JoinUs() {
   return (
     <div>
-      <div className="bg-gradient-to-r from-blue-900 to-indigo-900 h-[100vh] w-[100vw] bg-cover text-white ">
+      <div className="bg-gradient-to-r from-blue-900 to-indigo-900 h-[70vh] w-[100vw] bg-cover text-white ">
         <div className="h-1  ml-[100px] w-[40vw] bg-white"></div>
         <div className="pl-[100px]">
           <h1 className="font-bold text-[47px] md:text-[37px]">Join Us</h1>
