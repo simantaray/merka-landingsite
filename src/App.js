@@ -2,6 +2,7 @@ import Partner from "./Components/Partner";
 import ExHome from "./Pages/ExHome";
 import Home from "./Pages/Home";
 import MaintenceHome from "./Pages/MaintenceHome";
+import ReadArticle from "./Pages/ReadArticle";
 
 export default function App() {
   return (
@@ -10,6 +11,7 @@ export default function App() {
       <Partner />
       <ExHome />
       <MaintenceHome />
+      <ReadArticle />
     </div>
   )
 }

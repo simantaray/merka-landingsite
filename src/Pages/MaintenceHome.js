@@ -14,7 +14,7 @@ export default function MaintenceHome() {
           </p>
         </div>
         <img
-          className="w-[50vw] h-[500px] p-4"
+          className="w-[70vw] h-[500px] p-1"
           src="/MaintenanceIllustration.svg"
           alt=""
         />
