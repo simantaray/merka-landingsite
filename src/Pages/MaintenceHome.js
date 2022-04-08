@@ -4,7 +4,7 @@ export default function MaintenceHome() {
   return (
     <div className="bg-gradient-to-r from-blue-900 to-indigo-900 h-[100vh] w-[100vw] bg-cover text-white ">
       <div className="pt-[0px] flex">
-        <div className="w-[50vw] mt-10 p-6 pr-[150px] pl-[150px]">
+        <div className="w-[60vw] mt-[100px] p-4 pr-[110px] pl-[100px]">
           <h1 className="text-red-300 font-semibold text-2xl ">DAPPS</h1>
           <h1 className="font-bold text-[47px] md:text-[37px]">
           Technology made easier
