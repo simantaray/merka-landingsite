@@ -19,8 +19,8 @@ export default function JoinUs() {
               are you waiting for ,come and be a part of the merklabs family,
               because we are here always for you.
             </p>
-            <button className=" relative rounded-md  border-white-100 p-4 font-bold text-[19px] mt-10">
-              <img src="/button.svg" alt="" />
+            <button className=" relative rounded-md  border-white-100 p-4 font-bold text-[19px] mt-10 ">
+              <img className="shadow-2xl" src="/button.svg" alt="" />
               <h1 className="absolute top-8 right-12">Explor More</h1>
             </button>
           </div>
@@ -31,7 +31,7 @@ export default function JoinUs() {
               <li className="pr-[30px]">Curl</li>
             </ul>
             <img
-              className=" w-[70vw] h-[400px] p-1"
+              className=" w-[70vw] h-[400px] p-1 "
               src="/codesnip.svg"
               alt=""
             />
