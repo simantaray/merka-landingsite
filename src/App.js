@@ -1,5 +1,6 @@
 
 import ExHome from "./Pages/ExHome";
+import Footer from "./Pages/Footer";
 import Home from "./Pages/Home";
 import JoinUs from "./Pages/JoinUs";
 import MaintenceHome from "./Pages/MaintenceHome";
@@ -15,6 +16,7 @@ export default function App() {
       <ReadArticle />
       <JoinUs/>
       <Review />
+      <Footer />
     </div>
   )
 }
