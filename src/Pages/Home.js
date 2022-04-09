@@ -10,8 +10,8 @@ export default function Home() {
           <h1 className="md:text-[30px] xl:text-[49px] font-bold">
             MERKLABS BLOCKCHAIN DEVELOPMENT AND SECURITY SOLUTIONS
           </h1>
-          <button className=" relative rounded-md  border-white-100 p-0 font-bold text-[19px] mt-10">
-          <img className="shadow-2xl" src="/button.svg" alt="" />
+          <button className=" relative rounded-md  border-white-100 p-0 font-bold text-[19px] mt-10 ">
+          <img className="shadow-2xl hover:" src="/button.svg" alt="" />
             <h1 className="absolute top-4 left-6">Explor More</h1>
           </button>
         </div>

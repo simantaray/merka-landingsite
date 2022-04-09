@@ -12,7 +12,7 @@ function ReadArticle() {
           alt=""
         />
         <div className="xl:p-10 md:p-6 w-[50%]">
-          <h1 className="underline font-semibold xl:text-xl md:text-lg pb-4">
+          <h1 className="underline font-semibold xl:text-xl md:text-lg pb-4 cursor-pointer">
             Read Article
           </h1>
           <h1 className="font-bold xl:text-2xl md:text-xl pb-6">

@@ -3,6 +3,7 @@ import React from "react";
 export default function Ask() {
   return (
     <div className="relative p-10 xl:h-[220px] md:h-[280px] w-[100vw] bg-gradient-to-r from-blue-900 to-indigo-900 text-white">
+       <div className=" h-1 m-10  bg-white"></div>
       <div className="block m-auto right-0 left-0 top-[-200px] bottom-0  h-[100%] w-[80vw] bg-blue-800 rounded-2xl ">
      <div className="flex ">
         <h1 className="text-2xl xl:pr-[150px] pt-[50px]  p-10 text font-bold"> We've prepared everything, it's time for you to tell the problem</h1> 

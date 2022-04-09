@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function ExHome() {
   return (
-    <div className="bg-gradient-to-r from-blue-900 to-indigo-900 h-[100vh] w-[100vw] bg-cover text-white " >
+    <div className="bg-gradient-to-r from-blue-900 to-indigo-900 h-[85vh] w-[100vw] bg-cover text-white " >
       
-      <div className='pt-[250px] flex'>
+      <div className='pt-[200px] flex'>
         <img className="w-[50vw] h-[500px] p-4" src="/UIDesignIllustration1.svg" alt="" />
         <div className='w-[50vw] mt-10 p-6 pr-[150px]'>
           <h1 className='text-red-300 font-semibold text-2xl '>DEFI</h1>
